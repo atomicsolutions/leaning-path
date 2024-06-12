@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T18:21:02.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="l6SqLo2ly_RzF9HjkScA" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T18:34:40.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="J5Aa4MoD1-Ia1IqMP6Sv" version="24.5.4" type="github">
   <diagram name="Página-1" id="zNzb7YGpmJKHPsOs2Py7">
     <mxGraphModel dx="1188" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,30 @@
         <mxCell id="C-AJYibhgRINaA0Zn2Uu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYMMDPcB0hkNtFmYqeaA-1" target="C-AJYibhgRINaA0Zn2Uu-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYMMDPcB0hkNtFmYqeaA-1" target="C-AJYibhgRINaA0Zn2Uu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYMMDPcB0hkNtFmYqeaA-1" target="C-AJYibhgRINaA0Zn2Uu-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="95" />
+              <mxPoint x="60" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYMMDPcB0hkNtFmYqeaA-1" target="C-AJYibhgRINaA0Zn2Uu-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="95" />
+              <mxPoint x="60" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VYMMDPcB0hkNtFmYqeaA-1" value="&lt;a target=&quot;_blank&quot; href=&quot;https://www.udemy.com/git-e-github-para-iniciantes/learn/lecture/5120486#overview&quot;&gt;Github para iniciantes&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="100" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-AJYibhgRINaA0Zn2Uu-1" target="C-AJYibhgRINaA0Zn2Uu-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-AJYibhgRINaA0Zn2Uu-1" value="&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/playlist?list=PLFGoYjJG_fqrjcgRUcc2ubbZGtbRcC6W8&quot;&gt;Playwright - Java&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://playwright.dev/java/&quot;&gt;Documentação Oficial&lt;/a&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="300" y="10" width="160" height="70" as="geometry" />
@@ -37,17 +59,18 @@
             <mxPoint x="430" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-AJYibhgRINaA0Zn2Uu-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-AJYibhgRINaA0Zn2Uu-1" target="C-AJYibhgRINaA0Zn2Uu-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="290" as="sourcePoint" />
-            <mxPoint x="430" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="C-AJYibhgRINaA0Zn2Uu-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-AJYibhgRINaA0Zn2Uu-14" target="C-AJYibhgRINaA0Zn2Uu-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-AJYibhgRINaA0Zn2Uu-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-AJYibhgRINaA0Zn2Uu-14" target="C-AJYibhgRINaA0Zn2Uu-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-AJYibhgRINaA0Zn2Uu-14" target="C-AJYibhgRINaA0Zn2Uu-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="C-AJYibhgRINaA0Zn2Uu-14" value="&lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/playlist?list=PLf8x7B3nFTl17WeEVj405tHlstiq1kNBX&quot;&gt;Guia Teste de API&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="340" width="140" height="70" as="geometry" />
@@ -57,6 +80,39 @@
         </mxCell>
         <mxCell id="C-AJYibhgRINaA0Zn2Uu-17" value="&lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/playlist?list=PLFGoYjJG_fqpkA13xItqpyr5CXu3HEDkj&quot;&gt;Playwright API - Java&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-AJYibhgRINaA0Zn2Uu-19" target="C-AJYibhgRINaA0Zn2Uu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-19" value="&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://testautomationu.applitools.com/python-api-testing/&quot;&gt;Teste API - Python&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://playwright.dev/python/docs/api-testing&quot;&gt;Playwright API - Python&lt;/a&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="319" y="585" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-AJYibhgRINaA0Zn2Uu-21" target="C-AJYibhgRINaA0Zn2Uu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-AJYibhgRINaA0Zn2Uu-21" target="C-AJYibhgRINaA0Zn2Uu-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-21" value="&lt;a target=&quot;_blank&quot; href=&quot;https://testautomationu.applitools.com/python-tutorial/&quot;&gt;Conceitos iniciais - Python&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="110" y="680" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C-AJYibhgRINaA0Zn2Uu-22" target="C-AJYibhgRINaA0Zn2Uu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-22" value="&lt;a target=&quot;_blank&quot; href=&quot;https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/&quot;&gt;Selenium Python&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-24" value="&lt;a target=&quot;_blank&quot; href=&quot;https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/&quot;&gt;Cucumber (Pytest) - Python&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-29" value="&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/learn/lecture/9504432#overview&quot;&gt;Robot Framework - Básico&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/learn/lecture/16030036?src=sac&amp;amp;kw=Robot#overview&quot;&gt;Robot Framework - Avançado&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/watch?v=WIIm6eeqKM4&quot;&gt;Robot Framework - Automação Desktop&lt;/a&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="780" width="350" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-31" value="&lt;a target=&quot;_blank&quot; href=&quot;https://www.udemy.com/course/cypress-do-zero-2023-do-cypress-studio-ao-pageobjects/learn/lecture/39302978#overview&quot;&gt;Cypress do Zero: Do Cypress Studio ao PageObjects&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="920" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C-AJYibhgRINaA0Zn2Uu-32" value="&lt;a href=&quot;https://www.udemy.com/course/cypress-do-zero-2023-do-cypress-studio-ao-pageobjects/learn/lecture/39302978#overview&quot; target=&quot;_blank&quot;&gt;Cypress do Zero: Do Cypress Studio ao PageObjects&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1030" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
